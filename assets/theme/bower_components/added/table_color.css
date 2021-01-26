@@ -1,0 +1,10 @@
+.table-black{
+    border:1px solid black;
+    margin-top:20px;
+}
+.table-black > thead > tr > th{
+    border:1px solid black;
+}
+.table-black > tbody > tr > td{
+    border:1px solid black
+}
